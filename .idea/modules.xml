@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AngularGwtExample-master/src/main/AngularGwt.iml" filepath="$PROJECT_DIR$/AngularGwtExample-master/src/main/AngularGwt.iml" />
       <module fileurl="file://$PROJECT_DIR$/TTT/TTT.iml" filepath="$PROJECT_DIR$/TTT/TTT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeaVmDemo/TeaVmDemo.iml" filepath="$PROJECT_DIR$/TeaVmDemo/TeaVmDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/applet_InvokingAppletMethodsFromJavaScript/applet_InvokingAppletMethodsFromJavaScript.iml" filepath="$PROJECT_DIR$/applet_InvokingAppletMethodsFromJavaScript/applet_InvokingAppletMethodsFromJavaScript.iml" />
       <module fileurl="file://$PROJECT_DIR$/applet_InvokingJavaScriptFromApplet/applet_InvokingJavaScriptFromApplet.iml" filepath="$PROJECT_DIR$/applet_InvokingJavaScriptFromApplet/applet_InvokingJavaScriptFromApplet.iml" />
       <module fileurl="file://$PROJECT_DIR$/liveconnect/liveconnect.iml" filepath="$PROJECT_DIR$/liveconnect/liveconnect.iml" />
